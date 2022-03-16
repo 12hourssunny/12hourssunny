@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @12hourssunny
-- 👀 I’m interested in python
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning machine learning and knowledge graph
 - 📫 How to reach me 826802411@qq.com
 
